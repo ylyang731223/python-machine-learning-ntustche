@@ -4,7 +4,7 @@
 
 ## 互動式網頁
 
-[`Python1_互動教學.html`](Python1_互動教學.html) — Python 1 互動教學網頁（瀏覽器直接開啟）
+[Python1_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python1_互動教學.html) — Python 1 互動教學網頁（點擊直接開啟）
 
 ## 教學單元
 
@@ -52,4 +52,4 @@
 
 ## 使用方式
 
-下載 [`Python1_互動教學.html`](Python1_互動教學.html) 後以瀏覽器直接開啟，無需安裝任何軟體或伺服器。
+點擊 [Python1_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python1_互動教學.html) 直接開啟互動式網頁，無需安裝任何軟體或伺服器。
