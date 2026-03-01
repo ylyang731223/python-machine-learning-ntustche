@@ -32,6 +32,7 @@
 | 單元 | 互動式網頁 |
 |------|-----------|
 | 課程介紹 | [course_intro_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/course_intro_互動教學.html) |
+| Vibe Coding 工具介紹 | [Vibe_Coding工具介紹_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/Vibe_Coding工具介紹_互動教學.html) |
 | Python 1 | [Python1_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python1_互動教學.html) |
 
 ### [Python 1 — 基本語法與算術運算](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python1_互動教學.html)
@@ -145,14 +146,6 @@
 2. 使用瀏覽器直接開啟，無需安裝任何軟體或啟動伺服器
 3. 點擊右上角切換深色／淺色主題
 4. 依序閱讀教學內容，完成習題練習
-
-## 評分方式
-
-| 項目 | 比例 |
-|:----:|:----:|
-| 點名 | 25% |
-| 作業 | 50% |
-| 期末報告 | 25% |
 
 ## 授課資訊
 
