@@ -1,6 +1,6 @@
 # Python 與機器學習的化工應用
 
-**國立臺灣科技大學 化學工程系**
+**國立台灣科技大學 化學工程系**
 
 授課教師：楊延齡（Yan-Ling Yang）
 
@@ -29,7 +29,12 @@
 
 每份教學網頁皆為**單一 HTML 檔案**，零外部依賴，可離線使用，支援深色／淺色主題切換。
 
-### Python 1 — 基本語法與算術運算
+| 單元 | 互動式網頁 |
+|------|-----------|
+| 課程介紹 | [course_intro_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/course_intro_互動教學.html) |
+| Python 1 | [Python1_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python1_互動教學.html) |
+
+### [Python 1 — 基本語法與算術運算](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python1_互動教學.html)
 
 > Python 簡介、資料型態、型別轉換、算術運算子
 
@@ -136,7 +141,7 @@
 
 ## 使用方式
 
-1. 開啟 `互動式網頁/` 資料夾中的任一 HTML 檔案
+1. 點擊上方互動式網頁連結，或下載對應的 HTML 檔案
 2. 使用瀏覽器直接開啟，無需安裝任何軟體或啟動伺服器
 3. 點擊右上角切換深色／淺色主題
 4. 依序閱讀教學內容，完成習題練習
