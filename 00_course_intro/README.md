@@ -4,7 +4,10 @@
 
 ## 互動式網頁
 
-[course_intro_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/course_intro_互動教學.html) — 課程介紹互動網頁（點擊直接開啟）
+| 檔案 | 說明 |
+|------|------|
+| [course_intro_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/course_intro_互動教學.html) | 課程介紹互動網頁 |
+| [Vibe_Coding工具介紹_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/Vibe_Coding工具介紹_互動教學.html) | Vibe Coding 工具介紹互動網頁 |
 
 ## 內容架構
 
@@ -17,9 +20,7 @@
 | 一 | 08:10–09:00 | RB-508 |
 | 五 | 10:20–12:10 | RB-510 |
 
-### Unit 2：教科書與評分方式
-
-**教科書：**
+### Unit 2：教科書
 
 | 書名 | 用途 |
 |------|------|
@@ -27,14 +28,6 @@
 | *Applied Mathematical Methods for Chemical Engineers* (Loney) | 數值方法 |
 | *Machine Learning with PyTorch and Scikit-Learn* (Raschka) | 機器學習 |
 | *Hands-On Generative AI with Transformers and Diffusion Models* | 生成式 AI |
-
-**評分配比：**
-
-| 項目 | 比例 |
-|:----:|:----:|
-| 點名 | 25% |
-| 作業 | 50% |
-| 期末報告 | 25% |
 
 ### Unit 3：課程大綱
 
@@ -67,9 +60,9 @@
 - 深色／淺色主題切換
 - 側邊欄單元導航
 - 課程大綱可展開／收合
-- 評分配比動態圓餅圖
+
 - 進度條顯示
 
 ## 使用方式
 
-點擊 [course_intro_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/course_intro_互動教學.html) 直接開啟互動式網頁，無需安裝任何軟體或伺服器。
+點擊上方互動式網頁連結直接開啟，無需安裝任何軟體或伺服器。
