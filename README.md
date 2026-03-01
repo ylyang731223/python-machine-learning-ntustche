@@ -32,7 +32,7 @@
 | 單元 | 互動式網頁 |
 |------|-----------|
 | 課程介紹 | [course_intro_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/course_intro_互動教學.html) |
-| Vibe Coding 工具介紹 | [Vibe_Coding工具介紹_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/Vibe_Coding工具介紹_互動教學.html) |
+| Vibe Coding 工具介紹 | [Vibe_Coding工具介紹_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/Vibe_Coding工具介紹_互動教學.html)（15 款工具比較） |
 | Python 1 | [Python1_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python1_互動教學.html) |
 
 ### [Python 1 — 基本語法與算術運算](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python1_互動教學.html)
