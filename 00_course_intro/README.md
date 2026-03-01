@@ -2,11 +2,9 @@
 
 本資料夾包含課程介紹的互動式教學網頁，提供課程的基本資訊、大綱與規定。
 
-## 檔案
+## 互動式網頁
 
-| 檔案 | 說明 |
-|------|------|
-| `course_intro_互動教學.html` | 課程介紹互動網頁（瀏覽器直接開啟） |
+[course_intro_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/course_intro_互動教學.html) — 課程介紹互動網頁（點擊直接開啟）
 
 ## 內容架構
 
@@ -74,4 +72,4 @@
 
 ## 使用方式
 
-瀏覽器直接開啟 `course_intro_互動教學.html`，無需安裝任何軟體或伺服器。
+點擊 [course_intro_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/course_intro_互動教學.html) 直接開啟互動式網頁，無需安裝任何軟體或伺服器。
