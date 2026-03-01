@@ -7,7 +7,7 @@
 | 檔案 | 說明 |
 |------|------|
 | [course_intro_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/course_intro_互動教學.html) | 課程介紹互動網頁 |
-| [Vibe_Coding工具介紹_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/Vibe_Coding工具介紹_互動教學.html) | Vibe Coding 工具介紹互動網頁 |
+| [Vibe_Coding工具介紹_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/Vibe_Coding工具介紹_互動教學.html) | Vibe Coding 工具介紹互動網頁（15 款工具比較） |
 
 ## 內容架構
 
@@ -54,6 +54,17 @@
 ### Unit 5：課程工具介紹
 
 課程使用的軟體工具，包含 Python 與 AI 輔助開發工具。
+
+### Vibe Coding 工具介紹（獨立網頁）
+
+15 款主流 Vibe Coding 工具的分類、功能與比較：
+
+| 分類 | 工具 |
+|------|------|
+| 桌面 IDE 型 | Cursor、GitHub Copilot、Windsurf、Trae、Antigravity |
+| 終端 CLI 型 | Claude Code、Gemini CLI、Aider、Open Interpreter |
+| 瀏覽器原生型 | Bolt.new、v0、Lovable、Replit Agent、Codex |
+| 輕量瀏覽器編輯器 | GitHub.dev |
 
 ## 互動功能
 
