@@ -34,6 +34,7 @@
 | 課程介紹 | [course_intro_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/course_intro_互動教學.html) |
 | Vibe Coding 工具介紹 | [Vibe_Coding工具介紹_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/00_course_intro/Vibe_Coding工具介紹_互動教學.html)（15 款工具比較） |
 | Python 1 | [Python1_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python1_互動教學.html) |
+| Python 2 | [Python2_互動教學.html](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python2_互動教學.html) |
 
 ### [Python 1 — 基本語法與算術運算](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python1_互動教學.html)
 
@@ -48,7 +49,7 @@
 | 1-5 | 梯形法數值積分 | Kirchhoff 方程 |
 | 1-6 | 誤差傳播分析 | 孔口流量計 |
 
-### Python 2 — 內建資料結構
+### [Python 2 — 內建資料結構](https://ylyang731223.github.io/python-machine-learning-ntustche/01_python/Python2_互動教學.html)
 
 > 字串、List、Tuple、Dict 操作
 
